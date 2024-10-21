@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fairdrive</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="email_hint">Enter email</string>
+    <string name="password_hint_create_acc">Enter password (at least 6 characters)</string>
+    <string name="login_text">Login</string>
+    <string name="create_text">Create Account</string>
+    <string name="or_text">Or</string>
+    <string name="username_hint">Enter username</string>
+    <string name="password_hint_login">Enter password</string>
+</resources>
